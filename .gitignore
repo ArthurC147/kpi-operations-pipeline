@@ -1,0 +1,22 @@
+# Datasets (baixar diretamente do Kaggle)
+data/raw/*.csv
+data/processed/*.csv
+
+# Power BI (arquivos binários grandes)
+dashboard/*.pbix
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+*.swp
