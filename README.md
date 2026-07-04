@@ -166,7 +166,7 @@ jupyter>=1.0.0
 
 ## Author
 
-**Arthur Cardoso** — Industrial Engineering @ UFPR · Business & Customer Success Intern @ Telefônica Vivo
+**Arthur Cardoso** — Industrial Engineering @ UFPR
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-cardoso-b3b1ba1ab)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArthurC147)
