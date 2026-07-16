@@ -94,8 +94,13 @@ kpi-operations-pipeline/
 │   └── kpi_dashboard.pbix
 ├── docs/
 │   └── screenshots/
-│       ├── dashboard_overview.png
-│       └── pipeline_output.png
+│       ├── 01_csat_distribution.png
+│       ├── 01_volume_by_category.png,
+│       ├── 02_resolution_distribution.png
+│       ├── kpi_mttr.png
+│       ├── kpi_sla.png
+│       ├── kpi_csat.png
+│       └── kpi_volume_trend.png
 ├── requirements.txt
 └── README.md
 ```
