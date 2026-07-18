@@ -94,8 +94,13 @@ kpi-operations-pipeline/
 │   └── kpi_dashboard.pbix
 ├── docs/
 │   └── screenshots/
-│       ├── dashboard_overview.png
-│       └── pipeline_output.png
+│       ├── 01_csat_distribution.png
+│       ├── 01_volume_by_category.png,
+│       ├── 02_resolution_distribution.png
+│       ├── kpi_mttr.png
+│       ├── kpi_sla.png
+│       ├── kpi_csat.png
+│       └── kpi_volume_trend.png
 ├── requirements.txt
 └── README.md
 ```
@@ -166,7 +171,7 @@ jupyter>=1.0.0
 
 ## Author
 
-**Arthur Cardoso** — Industrial Engineering @ UFPR · Business & Customer Success Intern @ Telefônica Vivo
+**Arthur Cardoso** — Industrial Engineering @ UFPR
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-cardoso-b3b1ba1ab)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArthurC147)
